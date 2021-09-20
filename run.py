@@ -1,9 +1,14 @@
-from core.mcserver_loader import *
+from core.init_service import *
+
+init_service()
 
 
 
 
-while True:
-  output=start_mcserver()
-  print(output)
+
+
+
+
+
+
 
